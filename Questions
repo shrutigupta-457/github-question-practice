@@ -1,0 +1,69 @@
+Git & GitHub – Practical Assignment
+Level 1 – Beginner
+ Basic Git operations
+No.	Practical question
+1	Create a folder named Git-Practice.
+2	Initialize the folder as a Git repository.
+3	Check whether Git is initialized successfully.
+4	Create three files: index.html, style.css, and README.md.
+5	Check the status of your repository.
+6	Add only index.html to the staging area.
+7	Check which files are staged and unstaged.
+8	Commit index.html with the message Added HTML file.
+9	Add the remaining two files to staging.
+10	Commit them with the message Added CSS and README files.
+11	Display the commit history.
+12	Display commit history in one-line format.
+
+Level 2 – Intermediate Git operations
+Level 2
+ Changes, commits and branches
+No.	Practical question
+13	Modify the content of index.html.
+14	Check the difference between the previous and modified versions.
+15	Stage the modified file.
+16	Check the staged changes.
+17	Commit the changes with an appropriate message.
+18	Create a branch named feature-login.
+19	Switch to the feature-login branch.
+20	Create a file named login.html.
+21	Commit the new file in the feature branch.
+22	Switch back to the main branch.
+23	Check whether login.html exists in the main branch.
+24	Merge feature-login into the main branch.
+25	Verify that the merge was successful.
+
+Level 3 – GitHub operations
+Level 3
+ Remote repository
+No.	Practical question
+26	Create a GitHub account if you don't have one.
+27	Create a new repository named Git-Practice.
+28	Connect your local repository to GitHub.
+29	Check the remote repository URL.
+30	Push your main branch to GitHub.
+31	Create a new branch named feature-registration.
+32	Create a register.html file in that branch.
+33	Commit and push the new branch to GitHub.
+34	Create a Pull Request on GitHub.
+35	Review and merge the Pull Request.
+36	Pull the latest changes into your local repository.
+37	Clone your repository into another folder.
+
+Level 4 – Advanced Git practice
+Level 4
+ Real-time developer scenarios
+No.	Practical question
+38	Modify a file but don't stage it. Discard the changes.
+39	Stage a file and then unstage it without deleting its changes.
+40	Make three commits and inspect their history.
+41	Create a commit and undo it using git revert.
+42	Temporarily save uncommitted changes using Git stash.
+43	Retrieve the stashed changes.
+44	Rename an existing file using Git.
+45	Delete a file and commit the deletion.
+46	Create two branches and modify the same file differently.
+47	Merge both branches and resolve the resulting merge conflict.
+48	Fetch remote changes without merging them.
+49	Compare local and remote branch changes.
+50	Push your final changes to GitHub.
